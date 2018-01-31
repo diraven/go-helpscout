@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"encoding/json"
 	"strings"
-	"gitlab.com/diraven/wild-hub/src/github.com/go-errors/errors"
+	"errors"
 )
 
 // Client manages communication with the HelpScout API.
